@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T03:09:04+00:00",
+  "generated_at": "2026-10-28T22:40:48+00:00",
   "today": "2026-10-28",
   "regions": [
     "Bay Area",
@@ -7,7 +7,7 @@
     "Pacific Northwest",
     "Other"
   ],
-  "count": 7,
+  "count": 6,
   "ceremonies": [
     {
       "id": "2151406782",
@@ -36,21 +36,6 @@
       "image_url": "https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production//site/2147572708/images/4433d21-305-b1f7-7a8-5a126cc7e88_redwoods-w-logo-watermark.png",
       "price": "$200.00 USD",
       "price_in_cents": 20000,
-      "free": false,
-      "sold_out": false
-    },
-    {
-      "id": "2151469122",
-      "date": "2026-11-08",
-      "label": "Redwood Ceremony with Sebastian Beca + Marina Bystritsky",
-      "ceremony_type": "Redwood Ceremony",
-      "facilitator": "Sebastian Beca + Marina Bystritsky",
-      "region": "Bay Area",
-      "title": "Redwood Ceremony",
-      "checkout_url": "https://www.sacredgarden.life/offers/cAmU6L7z",
-      "image_url": "https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production//site/2147572708/images/4433d21-305-b1f7-7a8-5a126cc7e88_redwoods-w-logo-watermark.png",
-      "price": "$150.00 USD",
-      "price_in_cents": 15000,
       "free": false,
       "sold_out": false
     },
