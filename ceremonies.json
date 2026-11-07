@@ -1,29 +1,14 @@
 {
-  "generated_at": "2026-11-04T20:17:10+00:00",
-  "today": "2026-11-04",
+  "generated_at": "2026-11-07T17:56:32+00:00",
+  "today": "2026-11-07",
   "regions": [
     "Bay Area",
     "Southern California",
     "Pacific Northwest",
     "Other"
   ],
-  "count": 7,
+  "count": 6,
   "ceremonies": [
-    {
-      "id": "2151406782",
-      "date": "2026-11-06",
-      "label": "Roundhouse Ceremony with Janet Weber/Bob Otis",
-      "ceremony_type": "Roundhouse Ceremony",
-      "facilitator": "Janet Weber/Bob Otis",
-      "region": "Bay Area",
-      "title": "Roundhouse Ceremony",
-      "checkout_url": "https://www.sacredgarden.life/offers/3vGaFDTS",
-      "image_url": "https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production//site/2147572708/images/e8f003-06f2-af7b-3108-5d7b22be1f5_Roundhouse_image.jpg",
-      "price": "$350.00 USD",
-      "price_in_cents": 35000,
-      "free": false,
-      "sold_out": false
-    },
     {
       "id": "2151469117",
       "date": "2026-11-08",
