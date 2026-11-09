@@ -1,29 +1,14 @@
 {
-  "generated_at": "2026-11-07T17:56:32+00:00",
-  "today": "2026-11-07",
+  "generated_at": "2026-11-09T22:52:15+00:00",
+  "today": "2026-11-09",
   "regions": [
     "Bay Area",
     "Southern California",
     "Pacific Northwest",
     "Other"
   ],
-  "count": 6,
+  "count": 5,
   "ceremonies": [
-    {
-      "id": "2151469117",
-      "date": "2026-11-08",
-      "label": "Redwood Ceremony with Clifton Ross",
-      "ceremony_type": "Redwood Ceremony",
-      "facilitator": "Clifton Ross",
-      "region": "Bay Area",
-      "title": "Redwood Ceremony",
-      "checkout_url": "https://www.sacredgarden.life/offers/SJ9oMFws",
-      "image_url": "https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production//site/2147572708/images/4433d21-305-b1f7-7a8-5a126cc7e88_redwoods-w-logo-watermark.png",
-      "price": "$200.00 USD",
-      "price_in_cents": 20000,
-      "free": false,
-      "sold_out": false
-    },
     {
       "id": "2151352209",
       "date": "2026-11-14",
