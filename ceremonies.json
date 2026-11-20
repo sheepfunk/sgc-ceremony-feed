@@ -1,29 +1,14 @@
 {
-  "generated_at": "2026-11-15T19:14:11+00:00",
-  "today": "2026-11-15",
+  "generated_at": "2026-11-20T20:54:51+00:00",
+  "today": "2026-11-20",
   "regions": [
     "Bay Area",
     "Southern California",
     "Pacific Northwest",
     "Other"
   ],
-  "count": 4,
+  "count": 3,
   "ceremonies": [
-    {
-      "id": "2151489884",
-      "date": "2026-11-19",
-      "label": "Roundhouse Ceremony with Aaron Brown",
-      "ceremony_type": "Roundhouse Ceremony",
-      "facilitator": "Aaron Brown",
-      "region": "Bay Area",
-      "title": "Roundhouse Ceremony",
-      "checkout_url": "https://www.sacredgarden.life/offers/45DFPrHF",
-      "image_url": "https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production//site/2147572708/images/e8f003-06f2-af7b-3108-5d7b22be1f5_Roundhouse_image.jpg",
-      "price": "$350.00 USD",
-      "price_in_cents": 35000,
-      "free": false,
-      "sold_out": false
-    },
     {
       "id": "2151489907",
       "date": "2026-11-27",
